@@ -28,7 +28,9 @@ The workflow builds on the study:
 ## 🧬 Protocol Modules
 The workflow is split into **three operational modules** to satisfy pipette tip constraints and to support up to **6 alternate columns (even-numbered positions)**:
 
-![OT-2 workflow illustration showing the three protocol modules](docs/images/ot2_workflow.png)
+<p align="center">
+  <img src="docs/images/ot2_workflow.png" width="60%" />
+</p>
 
 1. **Protein Binding** — Mix samples with hydroxyl magnetic beads, engage the magnetic module, and capture bound proteins.
 2. **Washing & Interferent Removal** — Remove detergents/salts and dry beads while conserving tips.
