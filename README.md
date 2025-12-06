@@ -32,9 +32,9 @@ The workflow is split into **three operational steps** to satisfy pipette tip co
   <img src="docs/images/ot2_workflow.png" width="60%" />
 </p>
 
-1. **Protein Binding** — Mix samples with hydroxyl magnetic beads, engage the magnetic module, and capture bound proteins.
-2. **Washing & Interferent Removal** — Remove detergents/salts and dry beads while conserving tips.
-3. **Enzymatic Digestion & Peptide Elution** — Add protease, incubate, and elute peptides for downstream analysis.
+1. **Protein Binding, PAC and Washing** — Mix samples with hydroxyl magnetic beads, engage the magnetic module, and capture bound proteins. Remove detergents/salts using Multi-Washing Cycles.
+2. **Final Washing & Enzymatic Digestion** — Final washing. Add proteases (Trypsin/Lys-C) in digestion buffer and incubate at 37ºC o/n with shaking.
+3. **Stop Digestion & Peptide Elution** — Add 1% TFA (or FA) to the elution strip, recover the peptides from the supernatant, transfer them to the elution strips, and dry them for downstream analysis.
 
 Each module is designed to run independently so you can validate volumes and timings before chaining the full workflow.
 
